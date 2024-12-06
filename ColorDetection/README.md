@@ -7,7 +7,6 @@ This project creates a Python-based application that allows users to detect the 
 2. **Color Matching:** The program calculates the distance between the clicked color's RGB values and the dataset values, selecting the closest match.
 3. **Interactive Interface:** Users can load an image, click on any pixel, and instantly see the name of the corresponding color.
 
----
 
 ## **The Dataset**
 
@@ -15,7 +14,7 @@ This project creates a Python-based application that allows users to detect the 
 - **Details:**
   - Includes 865 colors.
   - Covers a wide range of RGB and hex values to provide accurate results.
----
+
 
 ## **Libraries uesed**
 
